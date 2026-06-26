@@ -31,7 +31,7 @@ A beginner-friendly Python game where the computer generates a random number and
 ## How to Run
 
 ```bash
-python main.py
+number_guessing_game.py
 ```
 
 ## Example
